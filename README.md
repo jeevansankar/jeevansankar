@@ -302,7 +302,6 @@ https://www.credly.com/badges/fea56206-f9f4-4275-a814-70ca70531601/public_url
 - Solved **85+ Data Structures and Algorithms problems** on LeetCode.
 - Earned a **Gold Badge in Java** on HackerRank.
 - Selected for the **RTIH Startup Incubation Program**.
-- Secured **3rd Prize** in a College Full Stack Development Hackathon.
 - Secured **3rd Prize** in an IoT Project Competition for developing a Smart Farming Device.
 
 ---
