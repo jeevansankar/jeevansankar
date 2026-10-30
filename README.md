@@ -345,18 +345,6 @@ Secondary School Certificate
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevansankar&show_icons=true&theme=github_dark&hide_border=true" alt="Jeevan's GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevansankar&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in connecting with developers, recruiters and engineering teams working on Java backend development, full-stack applications and cloud-based solutions.
